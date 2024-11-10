@@ -4,7 +4,9 @@
 
  New.xaml  需求：占位符位置塞东西 ImageLink塞图片 file_name塞Markdown标题
 
- Markdown文章（Markdown需要塞个更新内容的线 现在是魔改了hr.xaml(主页中间那个 更 新 内 容 的分隔线 ![QQ20241110-195738.png](QQ20241110-195738.png) 
+ Markdown文章（Markdown需要塞个更新内容的线 现在是魔改了hr.xaml(主页中间那个 更 新 内 容 的分隔线
+ 
+ ![QQ20241110-195738.png](QQ20241110-195738.png) 
  
  Cantupdate (你MC新闻那个类似的 有Json文件内新版本但本地没有对于Markdown新版本就塞入一个没更新 读取Github API 有新版本就塞 没新版本就不塞（
  
