@@ -11,8 +11,11 @@
  Cantupdate (你MC新闻那个类似的 有Json文件内新版本但本地没有对于Markdown新版本就塞入一个没更新 读取Github API 有新版本就塞 没新版本就不塞（
  
  historyline 一个分割线
+ 
  History 版本历史（人工）
+ 
  PRlist （人工）
+ 
  NewFooter 魔改的结束卡片
 
 
