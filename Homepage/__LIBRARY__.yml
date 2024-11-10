@@ -1,0 +1,6 @@
+name: Update_homepage
+fill:
+  templates:
+    - Luca
+    - MarkdownCard
+    - Raw

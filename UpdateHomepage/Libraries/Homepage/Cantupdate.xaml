@@ -1,0 +1,8 @@
+<local:MyCard Title="更新编写中"  Style="{StaticResource Card}"  Margin="0,0,0,15">
+<StackPanel Style="{StaticResource ContentStack}">
+<local:MyLoading Margin="0,8" Text="Building Now"/>
+<ContentControl Content="更 新 内 容" Template="{StaticResource Separator}"/>
+<local:MyIconTextButton Text="原更新日志" ToolTip="2.9.0 更新日志" EventType="打开网页"
+    EventData="链接" LogoScale="1.05" Logo="{StaticResource GithubIcon}" />
+</StackPanel>
+</local:MyCard>

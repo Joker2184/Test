@@ -1,0 +1,14 @@
+name: versions
+fill:
+  official-link:
+  version-image-link: 
+  version-id: ${file_name}
+  version-github-link: ${$GetLink|new_link}
+  title: 📰 ${file_name}
+  templates:
+    - Classic/VersionLatestCard
+    - Classic/VersionMarkdownCard
+    - Simplex/VersionLatestCard
+    - Simplex/VersionMarkdownCard
+    - Raw
+    
